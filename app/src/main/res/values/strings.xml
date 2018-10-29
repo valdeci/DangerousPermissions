@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DangerousPermission</string>
+
+    <string name="prompt_permission_phone_state">encontrar a \"Localização\"</string>>
+    <string name="prompt_permission_location">encontrar o \"Estado do telefone\</string>>
+    <string name="prompt_permission_all">encontrar a \"Localização\" e o\"Estado do telefone\"</string>>
+    <string name="prompt_permissions_title_needed">Permissões necessárias</string>
+
+    <string name="rationale_some_permanently_denied"> Este app não funcionará se as permissões de
+        \"Localização\" e de \"Estado de Telefone\" não forem concedidas. Entre nas configurações
+        do aplicativo, acionando \"Ok\", e libere-as.</string>
+
+    <string name="rationale_message_permissions"> Deixe a %1$s  %2$s e
+        oferecer outras facilidades.Libere as permissões nas configurações do seu celular </string>
+</resources>
